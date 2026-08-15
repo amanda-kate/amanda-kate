@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**amanda-kate/amanda-kate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amanda.
 
-Here are some ideas to get you started:
+Customer support and operations professional channeling my strengths into data analytics. 
+ 
+I work with SQL, Excel, and Tableau to turn messy data into clear insights that help teams make smarter decisions. What I love most is the mix of analytical thinking and creative storytelling, finding the patterns hiding in the numbers and translating them into something that actually means something to the people reading it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:
+Data: SQL (PostgreSQL), Excel
+BI: Tableau
+
+Domain: E-commerce Ops, CRM Strategy
